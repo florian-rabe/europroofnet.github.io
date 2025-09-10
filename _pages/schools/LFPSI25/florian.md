@@ -20,8 +20,10 @@ As concrete examples, the course will give a tour of the [LATIN logic atlas](htt
 - type system features: functions, products, refinements, ...
 - logical features: propositional, modal, first-order, higher-order, ...
 
+The branch [https://gl.mathhub.info/MMT/LATIN2/-/tree/lfpsi2025/] holds a beginner-friendly version of the atlas.
+It includes all examples of the lectures in a self-contained way. It also holds the slides.
 
-**Outline (tentative):**
+**Outline:**
 
 1. Introduction to LF and MMT, fundamental ontology and basic examples
 
@@ -29,4 +31,4 @@ As concrete examples, the course will give a tour of the [LATIN logic atlas](htt
 
 3. Homomorphisms for formalizing logic translations, semantics, and soundness proofs
 
-4. Formalization limits of current frameworks: advanced type-theoretical features, completeness proofs, non-compositional translations
+4. Formalization limits of current frameworks: advanced type-theoretical features
